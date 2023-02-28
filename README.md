@@ -1,4 +1,7 @@
-# "Toad King" - A NFT Game
+# "Toad King" - A NFT Game.
+
+FPT University Capstone Project <br />
+
 
 Java Backend: https://github.com/havud29/DoAn2  <br />
 Unity Frontend: https://github.com/havud29/Do-an-test-Project  <br />
