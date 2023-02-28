@@ -1,8 +1,8 @@
 # "Toad King" - A NFT Game
 
-Java Backend: https://github.com/havud29/DoAn2
-Unity Frontend: https://github.com/havud29/Do-an-test-Project
-Blockchain: Hyperledger Besu (Ethereum Client) on Azure
+Java Backend: https://github.com/havud29/DoAn2  <br />
+Unity Frontend: https://github.com/havud29/Do-an-test-Project  <br />
+Blockchain: Hyperledger Besu (Ethereum Client) on Azure  <br />
 
 ![6](https://user-images.githubusercontent.com/126559936/221836564-54f1ac10-d700-406c-8067-d2438a9da80f.png)
 ![7](https://user-images.githubusercontent.com/126559936/221836613-d322f604-0d19-43b1-b82d-7703cc32963d.png)
